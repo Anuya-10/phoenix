@@ -1,0 +1,61 @@
+body{
+    background:linear-gradient(135deg,#1c157c,#530666);
+    color:#FFF4EA;
+    font-weight:bold;
+    font-family:cursive;
+    font-size:40px;
+    text-align: center;
+
+
+}.cont{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+
+
+
+.container{ display:flexbox;
+    justify-content: center;
+    align-items: center;
+    height:400px;
+    width:900px;
+    background-color:bisque;
+    border-radius:100px;
+    color:black;
+
+}
+
+.box1{text-align: center;
+    
+}
+input{
+    width:300px;
+    height:40px;
+    border-radius:20px;
+
+}
+button{
+    background-color: coral;
+    border-radius:25px;
+    height:50px;
+    width:100px
+    
+
+    
+}
+.box2{
+    text-align: center;
+}
+
+input{
+    box-sizing:300px;
+}
+.three{
+    display:flex;
+    justify-content:center;
+    align-items:flex-end;
+    
+}
+
