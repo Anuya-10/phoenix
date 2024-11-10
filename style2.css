@@ -1,0 +1,43 @@
+body{
+    background:linear-gradient(135deg,#990cbc,#2461bd);
+    color:#FFF4EA;
+    font-weight:bold;
+    font-family:cursive;
+    font-size:40px;
+    text-align: center;
+
+}
+#div1{
+    background-color:white;
+    height:350px;
+    width:350px; 
+    display:inline-block;
+    border-radius:25px;
+    text-align:center;
+    margin:100px;
+    border-width:10px;
+    border-color:black;
+    border-style:dashed;
+    color:black;
+}
+#div2{
+    background-color:white;
+    height:350px;
+    width:350px; 
+    display:inline-block;
+    border-radius:25px;
+    text-align:center;
+    border-width:10px;
+    border-color:black;
+    border-style:dashed;
+    color:black;
+}
+button{
+    height:50px;
+    width:100px;
+    background-color:rgb(233, 209, 233);
+    border-radius:25px;
+    border-width:2px;
+    border-color:black ;
+    border-style: dashed; 
+}

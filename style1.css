@@ -19,7 +19,7 @@ body{
 .container{ display:flexbox;
     justify-content: center;
     align-items: center;
-    height:400px;
+    height:600px;
     width:900px;
     background-color:bisque;
     border-radius:100px;
@@ -27,8 +27,8 @@ body{
 
 }
 
-.box1{text-align: center;
-    
+.box1{text-align: left;
+      float:initial;
 }
 input{
     width:300px;
@@ -47,7 +47,9 @@ button{
 }
 .box2{
     text-align: center;
+    float:initial;
 }
+
 
 input{
     box-sizing:300px;
@@ -58,4 +60,19 @@ input{
     align-items:flex-end;
     
 }
+.box4{text-align: center;
+    float:initial;
+    
+}
+input{
+    box-sizing:300px;
+    
 
+}
+.box5{text-align: center;
+    float:initial;
+}
+input{
+    box-sizing:300px;
+
+}
